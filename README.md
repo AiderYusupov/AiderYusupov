@@ -1,11 +1,7 @@
-# Hi there 🙃
+# Hi there 🙃 I'm Aider
 
-- 😎 i like to write scripts
-
-- 🤔 I am constantly learning new things
-
-- 🤓 key skills : linux, Git, Ubuntu Server, Shell Scripting,  Unix Shell Scripts, Bash, Atlassian Jira, Atlassian Confluence, Github
+- 😎 I like to write Dockerfiles and CI/Cd jobs
+- 🤔 I am constantly learning new things like k8s and Gitlab
+- 🤓 key skills : Linux, Git, Ubuntu Server, Shell Scripting, Bash, Atlassian Jira, Atlassian Confluence, GitLab, Kubernetes
  
 ![](rHkL78ZpxiQ.jpg)
-
- 
